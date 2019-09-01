@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Tue Jul 23 04:30:37 BRT 2019
+1.base=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.file=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_/res/xml/accessory_filter.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+0.file=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+4.base=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/res/resources-debug.ap_

@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:3:52-81
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:3:26-51
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:3:2-25
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:4:2-70
+	android:targetSdkVersion
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:4:12-41
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:4:42-67
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+		INJECTED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:5:2-64
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:6:2-65
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:6:19-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:7:1-77
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:7:18-74
+application
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:8:2-23:16
+	android:label
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:8:45-77
+	android:icon
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:8:15-44
+uses-library#com.android.future.usb.accessory
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:9:3-10:31
+	android:required
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:10:4-28
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:9:17-64
+activity#ioio.examples.hello.MainActivity
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:11:3-22:14
+	android:label
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:11:13-45
+	android:launchMode
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:12:4-35
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:11:46-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:13:4-16:20
+action#android.intent.action.MAIN
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:14:5-57
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:14:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:15:15-62
+intent-filter#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:17:4-19:20
+action#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:18:13-78
+meta-data#android.hardware.usb.action.USB_ACCESSORY_ATTACHED
+ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:20:4-21:48
+	android:resource
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:21:5-45
+	android:name
+		ADDED from /home/cesar/Desktop/helloioioioioacel 02 112/app/src/main/AndroidManifest.xml:20:15-80

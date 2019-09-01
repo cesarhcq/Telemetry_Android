@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+ 
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="       Ganho                     Offset                      VA2rep"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:id="@+id/Parametros"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/Ganho"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.29"
+            android:ems="10"
+            android:inputType="number|numberDecimal"
+            tools:ignore="ExtraText">
+
+            android:text="Ganho" />
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/Offset"
+            android:layout_width="78dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.25"
+            android:ems="10"
+            android:inputType="number|numberDecimal" />
+
+        	android:text="Offset" />
+
+        <EditText
+            android:id="@+id/VA20"
+            android:layout_width="48dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.56"
+            android:ems="10"
+            android:inputType="number|numberDecimal" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="Setar"
+            android:text="Entrar Parâmetros" />
+
+        <ToggleButton
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ToggleButton"
+            android:textOff="@string/Ledoff"
+            android:textOn="@string/LEDon" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tensao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vioio" />
+
+    <TextView
+        android:id="@+id/va2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Va2" />
+
+    <TextView
+        android:id="@+id/dva2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vponte" />
+
+    <ioio.examples.hello.GraphView
+        android:id="@+id/graph"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

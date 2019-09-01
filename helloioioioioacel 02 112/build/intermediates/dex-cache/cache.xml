@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/cesar/Desktop/helloioioioioacel 02 112/app/libs/ioiolibandroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fb7f2cb0326ea58fd6ba9c63bde46fa3c6eb32a1">
+        <dex dex="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/2/ioiolibandroid_dce67e851829ecbcfc90079e8786b951264166c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f30ee23c6e5a5865893f17b4d94a5ab9eeceedbb">
+        <dex dex="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_569226da4d42b143b21ed3cb380535726ae8f572/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f5c5a3d8f6d46284f29c98d14dc10f268d6d3fc8">
+        <dex dex="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5cb45cd83c38990e9c850c58d942cb69abde6f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cesar/Desktop/helloioioioioacel 02 112/app/libs/ioiolibandroiddevice.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0f15df282239eaf800d943033031b12e5dcb45c5">
+        <dex dex="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/2/ioiolibandroiddevice_2650af3998f29315081016bc586fa7101c70eeea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cesar/Desktop/helloioioioioacel 02 112/app/libs/ioiolibbt.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3747fea18a8595d07de6dbf4c6b93f738846a626">
+        <dex dex="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/2/ioiolibbt_4cd4966e4dc0ee808a8774356c9d0d959bcf60d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/cesar/Desktop/helloioioioioacel 02 112/app/libs/ioiolibaccessory.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d0ace06f209f3e42717c90166f609803d8f46325">
+        <dex dex="/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/2/ioiolibaccessory_5a112257836e37d6bc35296e2226240ce974d09b/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Tue Jul 23 04:30:48 BRT 2019
+base.0=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5cb45cd83c38990e9c850c58d942cb69abde6f3
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_569226da4d42b143b21ed3cb380535726ae8f572/classes.dex
+base.1=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_569226da4d42b143b21ed3cb380535726ae8f572
+file.0=/home/cesar/Desktop/helloioioioioacel 02 112/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a5cb45cd83c38990e9c850c58d942cb69abde6f3/classes.dex

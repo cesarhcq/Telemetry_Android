@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="LEDon">LED On</string>
+    <string name="Ledoff">LED Off</string>
+    <string name="app_name">Datalogger</string>
+    <string name="hello">Olá usuário!!</string>
+</resources>
